@@ -1,0 +1,6 @@
+docker-run
+.vscode/launch.json
+__pycache__/
+logs/
+config.ini
+.DS_Store
